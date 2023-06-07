@@ -1,4 +1,13 @@
+body {
+  background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+
 h1 {
   text-align: center;
   color: blue;
+}
+
+.contact-btn {
+  display: block;
+  margin: 0 auto;
 }
