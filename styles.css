@@ -13,8 +13,14 @@ h1 {
 
 img {
   display: block;
-  width: 50%;
+  width: 90%;
   border-radius: 20px;
   margin: 20px  auto;
+
+}
+.contact-btn {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
 
 }
