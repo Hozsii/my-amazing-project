@@ -3,19 +3,15 @@ h1 {
   color: blue;
 }
 
-.contact-btn {
-  display: block;
-  margin: 0 auto;
-}
-
 img {
   display: block;
-  width: 90%;
+  margin: 0 auto;
+  width: 200px;
   border-radius: 20px;
-  margin: 20px auto;
 }
 .contact-btn {
   display: block;
   margin: 0 auto;
   width: 200px;
+  border-radius: 20px;
 }
